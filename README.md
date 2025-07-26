@@ -50,3 +50,32 @@ Prerequisites
 Python 3.9+
 
 Java Runtime Environment (JRE): The "Grammar Correction" feature depends on language-tool-python, which requires Java to be installed on your system.
+
+📖 Usage
+The application will start, and the necessary models will begin loading in the background. The status bar will keep you updated.
+
+Once ready, paste your AI-generated text into the left-hand input box.
+
+Select your desired transformation options from the checkboxes and adjust the "Creativity" slider.
+
+Click the "Convert" button.
+
+The humanized text will appear in the right-hand output box.
+
+🤝 Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+Fork the Project
+
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+
+Push to the Branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+📄 License
+Distributed under the MIT License. See LICENSE file for more information.
