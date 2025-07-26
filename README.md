@@ -1,4 +1,5 @@
-Toprak AI Humanizer
+🤖🤖🤖Toprak AI Humanizer🤖🤖🤖
+
 An advanced desktop application designed to transform AI-generated text into more natural, sophisticated, and human-like prose.
 
 Toprak AI Humanizer is more than a simple paraphrasing tool. It's a sophisticated suite of NLP models and techniques packaged in a modern, user-friendly interface built with PySide6. It intelligently analyzes and refines text to help bypass AI detection systems and enhance overall readability.
